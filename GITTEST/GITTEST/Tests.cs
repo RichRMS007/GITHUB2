@@ -26,6 +26,8 @@ namespace GITTEST
                 // code if the app is not included in the solution.
                 //.ApkFile ("../../../Android/bin/Debug/UITestsAndroid.apk")
                 .StartApp(); 
+
+            //we zijn op de develop branch.
         }
 
         [Test]
