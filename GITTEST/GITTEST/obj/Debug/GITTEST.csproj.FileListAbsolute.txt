@@ -1,0 +1,9 @@
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\bin\Debug\GITTEST.dll
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\bin\Debug\GITTEST.pdb
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\bin\Debug\nunit.framework.dll
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\bin\Debug\Xamarin.UITest.dll
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\bin\Debug\nunit.framework.xml
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\bin\Debug\Xamarin.UITest.xml
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\obj\Debug\GITTEST.csprojResolveAssemblyReference.cache
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\obj\Debug\GITTEST.dll
+C:\Users\r.nathoe\Source\Repos\GItHUB\GITTEST\GITTEST\obj\Debug\GITTEST.pdb
